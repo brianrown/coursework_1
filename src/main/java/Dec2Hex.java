@@ -1,15 +1,12 @@
-import org.junit.Test;
-import static org.junit.Assert.*;
-
 public class Dec2Hex {
     private static int Arg1;
-    private static boolean exited;
+    static boolean exited;
 
-    private void exit() {
+    private static void exit() {
         exited = true;
     }
 
-    public void main(String[] args) {
+    public static void main(String[] args) {
         if (args.length != 1) {
             System.err.println("The incorrect number of arguments have been entered. This program needs 1 argument to run");
             exit();
@@ -41,44 +38,4 @@ public class Dec2Hex {
         }
     }
 
-    @Test
-    public void test1(){
-        String[] array = {};
-        main(array);
-        assertTrue(Dec2Hex.exited);
-    }
-    @Test
-    public void test2(){
-        String[] array = {"24","27"};
-        main(array);
-        assertTrue(Dec2Hex.exited);
-    }
-    @Test
-    public void test3(){
-        String[] array = {"Ryan's Test"};
-        main(array);
-        assertTrue(Dec2Hex.exited);
-    }
-
-    @Test
-    public void test4(){
-        String[] array = {"-10"};
-        main(array);
-        assertTrue(Dec2Hex.exited);
-    }
-    @Test
-    public void test5(){
-        String[] array = {"10000"};
-        main(array);
-    }
-    @Test
-    public void test6(){
-        String[] array = {"2147483647"};
-    }
-    @Test
-    public void test7(){
-        String[] array = {"2147483648"};
-        main(array);
-        assertTrue(Dec2Hex.exited);
-    }
 }

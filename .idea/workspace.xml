@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5638f3c5-773e-41c9-8cf6-f2512648c409" name="Default Changelist" comment="" />
+    <list default="true" id="969a6320-7396-4c1f-b064-01846aabc14e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,21 +21,16 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1SeRkm8zJxZ7zifvdBkipFB21ig" />
+  <component name="ProjectId" id="1ShJXDQZeKsF7GAIPnl6rGoOIVw" />
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="ExtractSuperBase.RECENT_KEYS">
-      <recent name="" />
-    </key>
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -49,71 +44,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Dec2Hex.test7">
-    <configuration name="Dec2Hex.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="untitled" />
-      <option name="PACKAGE_NAME" value="" />
+  <component name="RunManager" selected="Application.Dec2Hex">
+    <configuration name="Dec2Hex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dec2Hex" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
+      <module name="coursrwork_1" />
+      <option name="PROGRAM_PARAMETERS" value="10" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dec2Hex.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="untitled" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Dec2Hex" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dec2Hex.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="untitled" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Dec2Hex" />
-      <option name="METHOD_NAME" value="test4" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dec2Hex.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="untitled" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Dec2Hex" />
-      <option name="METHOD_NAME" value="test5" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dec2Hex.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="untitled" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Dec2Hex" />
-      <option name="METHOD_NAME" value="test7" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <module name="coursrwork_1" />
+      <option name="PROGRAM_PARAMETERS" value="8" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.Dec2Hex.test3" />
-      <item itemvalue="JUnit.Dec2Hex.test2" />
-      <item itemvalue="JUnit.Dec2Hex.test4" />
-      <item itemvalue="JUnit.Dec2Hex.test5" />
-      <item itemvalue="JUnit.Dec2Hex.test7" />
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Dec2Hex" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Dec2Hex.test7" />
-        <item itemvalue="JUnit.Dec2Hex.test5" />
-        <item itemvalue="JUnit.Dec2Hex.test4" />
-        <item itemvalue="JUnit.Dec2Hex.test3" />
-        <item itemvalue="JUnit.Dec2Hex.test2" />
+        <item itemvalue="Application.Dec2Hex" />
       </list>
     </recent_temporary>
   </component>
@@ -122,14 +75,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5638f3c5-773e-41c9-8cf6-f2512648c409" name="Default Changelist" comment="" />
-      <created>1571922220120</created>
+      <changelist id="969a6320-7396-4c1f-b064-01846aabc14e" name="Default Changelist" comment="" />
+      <created>1572009931653</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571922220120</updated>
-      <workItem from="1571922223954" duration="3609000" />
-      <workItem from="1571927228221" duration="1495000" />
-      <workItem from="1571997847350" duration="3226000" />
+      <updated>1572009931653</updated>
+      <workItem from="1572009935087" duration="1076000" />
     </task>
     <servers />
   </component>
