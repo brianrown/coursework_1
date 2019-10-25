@@ -14,7 +14,7 @@ public class Dec2Hex {
 
     public static void main(String[] args) {
         if (args.length != 1) {
-            System.err.println("The incorrect number of arguments have been entered. This program needs 1 argument to run");
+            logger.log(new LogRecord(INFO,"The incorrect number of arguments have been entered. This program needs 1 argument to run"));
             exit();
         }
         else {
@@ -39,7 +39,7 @@ public class Dec2Hex {
                     hexadecimal.insert(0, ch[rem]);
                     num = num / 16;
                 }
-                System.out.println("Hexadecimal representation is : " + hexadecimal);
+                logger.log(new LogRecord(INFO,"Hexadecimal representation is : " + hexadecimal));
             }
         }
     }
